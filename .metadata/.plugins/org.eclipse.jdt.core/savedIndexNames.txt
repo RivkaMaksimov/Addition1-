@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\user\Documents\הדסים מטלת בית\.metadata\.plugins\org.eclipse.jdt.core
+1067476689.index
+2872044937.index

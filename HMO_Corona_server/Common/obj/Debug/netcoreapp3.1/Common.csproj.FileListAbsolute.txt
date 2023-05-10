@@ -1,0 +1,27 @@
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Common\obj\Debug\netcoreapp3.1\Common.pdb
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Common\obj\Debug\netcoreapp3.1\Common.pdb
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Common\obj\Debug\netcoreapp3.1\Common.pdb

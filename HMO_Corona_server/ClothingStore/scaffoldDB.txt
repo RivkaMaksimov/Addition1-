@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext 'Data Source=den1.mssql7.gear.host;Initial Catalog=hmocoronadb;Persist Security Info=True;User ID=hmocoronadb' Microsoft.EntityFrameworkCore.SqlServer -Context ClothingStore -OutputDir Models -Force

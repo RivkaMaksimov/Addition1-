@@ -1,0 +1,156 @@
+import java.util.Scanner;
+
+public class Ex {
+	
+	static Scanner s=new Scanner(System.in);
+	
+	public static void scope(int height, int width)
+	{
+		//assumption: the triangle is an isosceles
+		
+		//Calculating the side using the Pythagorean theorem :
+		
+		double side=Math.pow(width/2, 2)+ Math.pow(height, 2);  //side^2=(width/2)^2+height^2
+		side=Math.sqrt(side);
+		
+		System.out.println("The triangle's scope is:"+ side*2+width);
+	
+	}
+	public static void printT(int h, int w)
+	{
+		if(w%2==0 || w>h*2)
+			System.out.println("Impossiable to print the triangle");
+		else
+		{
+			   int oddNums=((w-1)/2)-1;
+			   int lNum=(oddNums==0)?0:((h-2)/oddNums);
+			   int rest=(h-2)%oddNums;
+			   int temp=lNum;
+			   int spaces=((w-1)/2);
+			   
+			 for(int i=0 ; i<spaces; i++ )
+			 {
+				 System.out.print(' ');
+			 }
+			 System.out.println("*"); 
+			 spaces--;
+				 
+			int tempW=3;
+			   while(rest>0)
+			   {
+				   for(int i=0 ; i<spaces; i++ )
+					 {
+						 System.out.print(' ');
+					 }
+				   for(int i=0;i<tempW;i++)
+				   {
+					   System.out.print("*");
+				   }  
+				   rest--;
+				   System.out.println();
+			   }
+			  
+			 while(tempW<w)
+			   {
+				   while(temp>0)
+				   {
+					   for(int i=0 ; i<spaces; i++ )
+						 {
+							 System.out.print(' ');
+						 }
+					   for(int i=0;i<tempW;i++)
+					   {
+						   System.out.print("*");
+					   }   
+					   temp--;  
+					   System.out.println();
+				   }
+				   tempW+=2;
+				   temp=lNum;
+				   spaces--;  
+			   }  
+			
+			 for(int i=0 ; i<spaces; i++ )
+			 {
+				 System.out.print(' ');
+			 }
+			  for(int i=0;i<w;i++)
+			   {
+				   System.out.print("*");
+			   }  
+			   System.out.println();
+		}
+		
+	}
+
+	public static void rectangle(int height, int width)
+	{ 
+		
+		if(Math.abs(width-height)>5)
+			System.out.println("The rectangle's area is:"+ height*width);
+		else
+		{
+			int scope=(height*2)+(width*2);
+			System.out.println("The rectangle's scope is:"+ scope);
+		}
+			
+		
+	}
+	
+	public static void triangle(int height, int width)
+	{
+		System.out.println("Enter 1 for the triangle scope\nEnter 2 for printing the triangle");
+		int ans=s.nextInt();
+		switch (ans) {
+		case 1: scope(height,width);break;
+		case 2:printT(height,width);break;
+		default:
+			throw new IllegalArgumentException("Unexpected value: " + ans);
+		}
+		
+	}
+	public static void program()
+	{
+		System.out.println("For rectangle tower enter 1\nFor triangle tower enter 2\nFor exit enter 3");
+		int ans=s.nextInt();
+		
+		while(ans!=3)
+		{
+			
+			System.out.println("Enter:\n1. height\n2. width");
+			int height=s.nextInt();
+			int width=s.nextInt();
+			
+			if(height<2)
+			{
+				System.out.println("The input is incorrect.\nEnter a height greater than or equal to 2");
+			    height=s.nextInt();
+			}
+				
+			switch (ans) {
+			case 1: rectangle(height, width); break;
+			case 2: triangle(height, width); break;
+			default:
+				throw new IllegalArgumentException("Unexpected value: " + ans);
+			}
+			
+			System.out.println("For rectangle tower enter 1\nFor triangle tower enter 2\nFor exit enter 3");
+			 ans=s.nextInt();
+		}
+		
+		
+		
+		
+		
+		
+		
+	}
+
+	public static void main(String[] args) {
+		
+		program();
+		
+	  
+	
+	}
+}

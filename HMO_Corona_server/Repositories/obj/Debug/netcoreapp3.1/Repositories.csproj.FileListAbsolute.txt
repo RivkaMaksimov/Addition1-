@@ -1,0 +1,92 @@
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Repositories\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Repositories\bin\Debug\netcoreapp3.1\System.IO.Pipelines.xml
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CopyComplete
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\ClothingStoreProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\bin\Debug\netcoreapp3.1\System.IO.Pipelines.xml
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CopyComplete
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\user\Documents\לימודי הנדסאות שנה ב\אנגולר\projects\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\bin\Debug\netcoreapp3.1\System.IO.Pipelines.xml
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CopyComplete
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\Repositories\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\Repositories\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\Repositories\bin\Debug\netcoreapp3.1\System.IO.Pipelines.xml
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CopyComplete
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache

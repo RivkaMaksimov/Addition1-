@@ -1,0 +1,130 @@
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\HMO_corona_database.exe
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\HMO_corona_database.deps.json
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\HMO_corona_database.runtimeconfig.json
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\HMO_corona_database.runtimeconfig.dev.json
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\HMO_corona_database.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\HMO_corona_database.pdb
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\Microsoft.FeatureManagement.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\App_Services.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\App_Services.pdb
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\bin\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\obj\Debug\netcoreapp3.1\HMO_corona_database.csprojAssemblyReference.cache
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\obj\Debug\netcoreapp3.1\HMO_corona_database.AssemblyInfoInputs.cache
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\obj\Debug\netcoreapp3.1\HMO_corona_database.AssemblyInfo.cs
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\obj\Debug\netcoreapp3.1\HMO_corona_database.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\obj\Debug\netcoreapp3.1\HMO_corona_database.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\obj\Debug\netcoreapp3.1\HMO_corona_database.RazorTargetAssemblyInfo.cache
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\obj\Debug\netcoreapp3.1\HMO_corona_database.csproj.CopyComplete
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\obj\Debug\netcoreapp3.1\HMO_corona_database.dll
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\obj\Debug\netcoreapp3.1\HMO_corona_database.pdb
+C:\Users\user\Documents\הדסים מטלת בית\‏‏ClothingStoreProject - צד שרת רבקה מקסימוב\ClothingStore\obj\Debug\netcoreapp3.1\HMO_corona_database.genruntimeconfig.cache
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\HMO_corona_database.exe
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\HMO_corona_database.deps.json
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\HMO_corona_database.runtimeconfig.json
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\HMO_corona_database.runtimeconfig.dev.json
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\HMO_corona_database.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\HMO_corona_database.pdb
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\Microsoft.FeatureManagement.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\App_Services.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\App_Services.pdb
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\bin\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\obj\Debug\netcoreapp3.1\HMO_corona_database.csprojAssemblyReference.cache
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\obj\Debug\netcoreapp3.1\HMO_corona_database.AssemblyInfoInputs.cache
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\obj\Debug\netcoreapp3.1\HMO_corona_database.AssemblyInfo.cs
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\obj\Debug\netcoreapp3.1\HMO_corona_database.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\obj\Debug\netcoreapp3.1\HMO_corona_database.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\obj\Debug\netcoreapp3.1\HMO_corona_database.RazorTargetAssemblyInfo.cache
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\obj\Debug\netcoreapp3.1\HMO_corona_database.csproj.CopyComplete
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\obj\Debug\netcoreapp3.1\HMO_corona_database.dll
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\obj\Debug\netcoreapp3.1\HMO_corona_database.pdb
+C:\Users\user\Documents\הדסים מטלת בית\HMO_Corona_server\ClothingStore\obj\Debug\netcoreapp3.1\HMO_corona_database.genruntimeconfig.cache

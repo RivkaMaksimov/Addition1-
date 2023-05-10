@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "HMO_corona_database": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "https://localhost:5001/api/TblCustomers",
+      "applicationUrl": "https://localhost:5001"
+    }
+  }
+}

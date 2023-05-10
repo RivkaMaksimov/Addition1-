@@ -1,0 +1,16 @@
+
+public class Ex {
+	
+	public static void program()
+	{
+		System.out.println("For rectangle tower enter 1\nfor triangle tower enter 2\nfor exit enter 3");
+	}
+
+	public static void main(String[] args) {
+		program();
+		
+		
+
+	}
+
+}

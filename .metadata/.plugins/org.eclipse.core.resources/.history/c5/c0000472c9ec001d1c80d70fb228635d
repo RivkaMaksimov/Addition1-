@@ -1,0 +1,111 @@
+import java.util.Scanner;
+
+public class Ex {
+	
+	static Scanner s=new Scanner(System.in);
+	
+	public static void scope(int height, int width)
+	{
+		//assumption: the triangle is an isosceles
+		
+		//Calculating the side using the Pythagorean theorem :
+		
+		double side=Math.pow(width/2, 2)+ Math.pow(height, 2);  //side^2=(width/2)^2+height^2
+		side=Math.sqrt(side);
+		
+		System.out.println("The triangle's scope is:"+ side*2+width);
+	
+	}
+	public static void printT(int height, int width)
+	{
+		if(width%2==0 || width>height*2)
+			System.out.println("Impossiable to print the triangle");
+		else
+		{
+			
+		}
+	}
+
+	public static void rectangle(int height, int width)
+	{
+		if(Math.abs(width-height)>5)
+			System.out.println("The rectangle's area is:"+ height*width);
+		else
+			System.out.println("The rectangle's scope is:"+ height*2+width*2);
+		
+	}
+	
+	public static void triangle(int height, int width)
+	{
+		System.out.println("Enter 1 for the triangle scope\nEnter 2 for printing the triangle");
+		int ans=s.nextInt();
+		switch (ans) {
+		case 1: scope(height,width);break;
+		case 2:printT(height,width);break;
+		default:
+			throw new IllegalArgumentException("Unexpected value: " + ans);
+		}
+		
+	}
+	public static void program()
+	{
+		System.out.println("For rectangle tower enter 1\nFor triangle tower enter 2\nFor exit enter 3");
+		int ans=s.nextInt();
+		
+		while(ans!=3)
+		{
+			
+			System.out.println("Enter:\n1.height\n2.width");
+			int height=s.nextInt();
+			int width=s.nextInt();
+			
+			if(height<2)
+			{
+				System.out.println("The input is incorrect.\nEnter a height greater than or equal to 2");
+			    height=s.nextInt();
+			}
+				
+			switch (ans) {
+			case 1: rectangle(height, width); break;
+			case 2: triangle(height, width); break;
+			default:
+				throw new IllegalArgumentException("Unexpected value: " + ans);
+			}
+			
+			
+		}
+		
+		
+		
+		
+		
+		
+		
+	}
+
+	public static void main(String[] args) {
+		
+		//program();
+		
+		
+
+	
+		   int i,j,n;
+		   System.out.println("Input number of rows for this pattern :");
+		    n=s.nextInt();
+		   for(i=0;i<n;i++)
+		   {
+		     for(j=1;j<=n;j++)
+		    	 System.out.println(" ");
+		     for(j=1;j<=2*i-1;j++)
+		    	 System.out.print("*");
+		     //System.out.println();
+		   }
+
+		
+		
+		
+
+	}
+
+}
